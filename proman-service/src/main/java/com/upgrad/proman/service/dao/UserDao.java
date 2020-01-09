@@ -35,10 +35,9 @@ public class UserDao {
             return null;
         }
     }
-    public UserAuthTokenEntity createAuthToken(final UserAuthTokenEntity userAuthTokenEntity){
-        entityManager.persist(userAuthTokenEntity);
-        return userAuthTokenEntity;
-    }
+
+    //Added Comment for testing Barnch fuctionality
+
     public void updateUser(final UserEntity updatedUserEntity){
         entityManager.merge(updatedUserEntity);
     }
