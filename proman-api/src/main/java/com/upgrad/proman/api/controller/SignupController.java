@@ -1,7 +1,6 @@
 package com.upgrad.proman.api.controller;
 
 
-import com.upgrad.proman.service.business.SignupBusinessService;
 import com.upgrad.proman.service.entity.UserEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

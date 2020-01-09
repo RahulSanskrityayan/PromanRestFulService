@@ -36,7 +36,7 @@ public class UserDao {
         }
     }
 
-    //Added Comment for testing Barnch fuctionality
+    //Added Comment for testing Barnch fuctionality with new branch Ram
 
     public void updateUser(final UserEntity updatedUserEntity){
         entityManager.merge(updatedUserEntity);

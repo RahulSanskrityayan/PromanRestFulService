@@ -3,6 +3,7 @@ com\upgrad\proman\service\business\AuthenticationService.class
 com\upgrad\proman\service\common\UnexpectedException.class
 com\upgrad\proman\service\entity\UserAuthTokenEntity.class
 com\upgrad\proman\service\business\PasswordCryptographyProvider.class
+com\upgrad\proman\service\exception\UnauthorizedException.class
 com\upgrad\proman\service\exception\ResourceNotFoundException.class
 com\upgrad\proman\service\common\ErrorCode.class
 com\upgrad\proman\service\business\UserAdminBusinessService.class
