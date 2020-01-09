@@ -6,6 +6,7 @@ C:\RahulLearning\RestFulWebservices\proman\proman-service\src\main\java\com\upgr
 C:\RahulLearning\RestFulWebservices\proman\proman-service\src\main\java\com\upgrad\proman\service\dao\UserDao.java
 C:\RahulLearning\RestFulWebservices\proman\proman-service\src\main\java\com\upgrad\proman\service\ServiceConfiguration.java
 C:\RahulLearning\RestFulWebservices\proman\proman-service\src\main\java\com\upgrad\proman\service\exception\ResourceNotFoundException.java
+C:\RahulLearning\RestFulWebservices\proman\proman-service\src\main\java\com\upgrad\proman\service\exception\UnauthorizedException.java
 C:\RahulLearning\RestFulWebservices\proman\proman-service\src\main\java\com\upgrad\proman\service\common\UnexpectedException.java
 C:\RahulLearning\RestFulWebservices\proman\proman-service\src\main\java\com\upgrad\proman\service\business\UserAdminBusinessService.java
 C:\RahulLearning\RestFulWebservices\proman\proman-service\src\main\java\com\upgrad\proman\service\business\SignupBusinessService.java
